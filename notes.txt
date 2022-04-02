@@ -1,0 +1,6 @@
+Require keyword used for importing another file
+
+require("./filename");
+module keyword is used for exporting wht we want
+
+module.exports=var name;
